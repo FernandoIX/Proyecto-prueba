@@ -6,4 +6,4 @@ Flores Cuenca, Luis
 
 ##Funcionalidades pendientes
 
-* Todo
+* Todo tr
